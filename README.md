@@ -1,4 +1,4 @@
-# 🇵🇪 Proyecto: Análisis de Combustibles y Electricidad ⚡
+# Proyecto: Análisis de Combustibles y Electricidad ⚡
 
 🖥️  Estoy entusiasmado por mostrar los resultado del proyecto que completea durante el bootcamp de "Data Analytics".
 
