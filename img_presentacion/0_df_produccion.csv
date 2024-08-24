@@ -1,0 +1,31 @@
+Country,Time,Balance,Product,Value,Unit
+Australia,March 2024,Producción Neta de Electricidad,Electricidad,23130.2764,GWh
+Australia,March 2024,Producción Neta de Electricidad,Total de Combustibles,14353.8714,GWh
+Australia,March 2024,Producción Neta de Electricidad,"Carbón, Turba y Gases Manufacturados",10304.7825,GWh
+Australia,March 2024,Producción Neta de Electricidad,Petróleo y Productos Derivados,330.5351,GWh
+Australia,March 2024,Producción Neta de Electricidad,Gas Natural,3492.4621,GWh
+Australia,March 2024,Producción Neta de Electricidad,Renovables Combustibles,226.0917,GWh
+Australia,March 2024,Producción Neta de Electricidad,Hidráulica,1086.2038,GWh
+Australia,March 2024,Producción Neta de Electricidad,Eólica,2972.2337,GWh
+Australia,March 2024,Producción Neta de Electricidad,Solar,4717.9674,GWh
+Australia,March 2024,Producción Neta de Electricidad,"Total Renovables (Hidráulica, Geo, Solar, Eólica, Otros)",9002.4967,GWh
+Australia,March 2024,Usado para almacenamiento por bombeo,Electricidad,77.4971,GWh
+Australia,March 2024,Pérdidas de Distribución,Electricidad,1176.3299,GWh
+Australia,March 2024,Consumo Final (Calculado),Electricidad,21876.4494,GWh
+Austria,March 2024,Producción Neta de Electricidad,Electricidad,6200.2066,GWh
+Austria,March 2024,Producción Neta de Electricidad,Total de Combustibles,1349.8177,GWh
+Austria,March 2024,Producción Neta de Electricidad,"Carbón, Turba y Gases Manufacturados",186.5179,GWh
+Austria,March 2024,Producción Neta de Electricidad,Petróleo y Productos Derivados,60.0364,GWh
+Austria,March 2024,Producción Neta de Electricidad,Gas Natural,604.2906,GWh
+Austria,March 2024,Producción Neta de Electricidad,Renovables Combustibles,437.484,GWh
+Austria,March 2024,Producción Neta de Electricidad,Otros Combustibles No Renovables,61.4889,GWh
+Austria,March 2024,Producción Neta de Electricidad,Hidráulica,3502.9917,GWh
+Austria,March 2024,Producción Neta de Electricidad,Eólica,1009.117,GWh
+Austria,March 2024,Producción Neta de Electricidad,Solar,336.6116,GWh
+Austria,March 2024,Producción Neta de Electricidad,Geotérmica,0.0002,GWh
+Austria,March 2024,Producción Neta de Electricidad,No Especificado,1.6683,GWh
+Austria,March 2024,Producción Neta de Electricidad,"Total Renovables (Hidráulica, Geo, Solar, Eólica, Otros)",5286.2045,GWh
+Austria,March 2024,Importaciones Totales,Electricidad,1605.0499,GWh
+Austria,March 2024,Exportaciones Totales,Electricidad,1834.4825,GWh
+Austria,March 2024,Usado para almacenamiento por bombeo,Electricidad,364.4701,GWh
+Austria,March 2024,Pérdidas de Distribución,Electricidad,259.2358,GWh
